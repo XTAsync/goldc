@@ -1,0 +1,8 @@
+{
+  "name": "Golden Compass",
+  "description": "Golden Compass: Institutional-grade financial market navigation, celestial asset compass intelligence, real-time DMA trading, and AI macro navigator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
