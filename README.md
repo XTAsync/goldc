@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="goldc logo" width="180" />
+</p>
+
 # AlphaTrade — Android Market & Portfolio App
 
 An Android application prototype combining market monitoring, portfolio tools, trading workflows, and AI-assisted research.
